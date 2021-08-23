@@ -2,11 +2,17 @@ header {
   background-image: url("flowersmc.png");
   background-size: fixed;
   text-align: center;
-  font-size: medium;
+  font-size: large;
+  -webkit-text-stroke-width: 2px;
+ -webkit-text-stroke-color: white;
 }
 
 body {
   background-color: rgb(253, 229, 147);
   color: black;
   font-size: large;
+}
+
+img {
+  width: 150px;
 }
