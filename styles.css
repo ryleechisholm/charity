@@ -2,7 +2,14 @@ header {
   background-image: url("flowersmc.png");
   background-size: fixed;
   text-align: center;
-  font-size: large;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 30px;
 }
 
 .nav {
