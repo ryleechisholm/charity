@@ -28,10 +28,8 @@ header {
 }
 
 body {
-  background-image: url("char_images/beee.jpeg");
+  background-color: white;
   color: black;
-  background-attachment: fixed;
-  background-size: cover;
   font-size: large;
 }
 
