@@ -13,7 +13,10 @@ body {
   color: black;
   font-size: 30px;
 }
-
+.image1{
+  margin-left: 35em;
+  margin-right: 35em;
+}
 img {
   padding: 10px;
   width: 400px;
