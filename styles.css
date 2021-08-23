@@ -2,14 +2,16 @@ header {
   background-image: url("flowersmc.png");
   background-size: fixed;
   text-align: center;
+  -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
 }
 
 .header1 {
-  font-size: 50px;
+  font-size: 80px;
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 60px;
 }
 
 .nav {
