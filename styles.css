@@ -15,8 +15,7 @@ body {
 }
 
 .image1 {
-  float: center;
-  padding-left: 400px;
+  margin: 50%;
 }
 
 img {
