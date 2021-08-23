@@ -2,8 +2,8 @@ header {
   background-image: url("flowersmc.png");
   background-size: fixed;
   text-align: center;
-  font-size: large;
-  -webkit-text-stroke-width: 2px;
+  font-size: x-large;
+  -webkit-text-stroke-width: 1px;
  -webkit-text-stroke-color: white;
 }
 
@@ -17,5 +17,5 @@ img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 100px;
+  width: 400px;
 }
