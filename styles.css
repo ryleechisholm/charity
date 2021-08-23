@@ -3,14 +3,6 @@ header {
   background-size: fixed;
   text-align: center;
   font-size: medium;
-  -webkit-text-stroke-width: 2px;
- -webkit-text-stroke-color: white;
-}
-
-
-.nav {
-  background-color: rgb(77, 43, 15);
-  overflow: hidden;
 }
 
 body {
