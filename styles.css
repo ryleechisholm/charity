@@ -45,6 +45,11 @@ img {
   padding-bottom: 20px;
 }
 
+.subtitle {
+  font-color: rgb(89, 87, 83);
+  font-size: 10px;
+}
+
 .bttm {
   background-color: rgb(245, 185, 100);
   font-size: 13px;
