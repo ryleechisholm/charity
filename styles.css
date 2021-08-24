@@ -1,11 +1,9 @@
-header {
+.head {
   background-image: url("flowersmc.png");
   background-size: fixed;
   text-align: center;
   font-color: #3d1705;
   font-size: xx-large;
-  -webkit-text-stroke-width: 1px;
- -webkit-text-stroke-color: white;
 }
 
 .nav {
