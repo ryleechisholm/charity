@@ -22,12 +22,12 @@ header {
 
 .nav a:hover {
   background-color: rgb(204, 116, 8);
-  color: rgb(199, 169, 133);
+  color: rgb(237, 227, 211);
 }
 
 .nav a.active {
-  background-color: rgb(204, 116, 8);
-  color: rgb(199, 169, 133);
+  background-color: rgb(237, 227, 211);
+  color: rgb(66, 33, 11);
 }
 
 body {
