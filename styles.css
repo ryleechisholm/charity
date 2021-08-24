@@ -32,18 +32,20 @@ body {
   margin-left: 50px;
   margin-right: 50px;
 }
-.image1{
-  margin-left: 5em;
-  margin-right: 5em;
-}
+
 img {
   padding: 10px;
   width: 400px;
   padding-bottom: 20px;
 
+  figure {
+    border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+  }
 
  figcaption{
-    font-size: 10px;
+    font-size: 5px;
     font-color: rgb(74, 72, 63);
   }
   
