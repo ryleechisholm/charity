@@ -43,7 +43,8 @@ img {
   float: center;
   width: 30%;
   text-align: right;
-  font-size: 10px;
+  font-size: 6px;
+  font-color: rgb(74, 72, 63);
   text-indent: 0;
   border: thin silver solid;
   margin: 0.5em;
