@@ -39,18 +39,12 @@ img {
   width: 400px;
   padding-bottom: 20px;
 
-  figure {
-  float: center;
-  width: 30%;
-  text-align: right;
-  font-size: 6px;
-  font-color: rgb(74, 72, 63);
-  text-indent: 0;
-  border: thin silver solid;
-  margin: 0.5em;
-  padding: 0.5em;
-}
 
+ figcaption{
+    font-size: 10px;
+    font-color: rgb(74, 72, 63);
+  }
+  
 .bttm {
   background-color: rgb(245, 185, 100);
   font-size: 13px;
