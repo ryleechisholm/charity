@@ -44,7 +44,7 @@ img {
   margin: auto;
   }
 
- figcaption{
+ .figcaption{
     font-size: 5px;
     font-color: rgb(74, 72, 63);
   }
