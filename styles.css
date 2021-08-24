@@ -4,8 +4,6 @@ header {
   text-align: center;
   font-color: rgb(59, 20, 5);
   font-size: xx-large;
-  -webkit-text-stroke-width: 1px;
- -webkit-text-stroke-color: rgb(255, 230, 171);
 }
 
 .nav {
