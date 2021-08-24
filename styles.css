@@ -7,13 +7,13 @@
 }
 
 .nav {
-  background-color: #333;
+  background-color: rgb(66, 33, 11);
   overflow: hidden;
 }
 
 .nav a {
   float: left;
-  color: #f2f2f2;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -43,4 +43,9 @@ img {
   padding: 10px;
   width: 400px;
   padding-bottom: 20px;
+}
+
+.bttm {
+  background-color: rgb(245, 185, 100);
+  font-size: 13px;
 }
