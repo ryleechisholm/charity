@@ -33,6 +33,11 @@ body {
   margin-right: 50px;
 }
 
+.par1 {
+  font-size: 80px;
+  text-align: center;
+}
+
 img {
   padding: 10px;
   width: 400px;
